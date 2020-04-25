@@ -1,0 +1,2200 @@
+{
+  "intents": [
+    {
+      "intent": "Covid_Testing_Locations",
+      "examples": [
+        {
+          "text": "testing locations?"
+        },
+        {
+          "text": "Can I test myself at my house?"
+        },
+        {
+          "text": "Can I get tested at Walgreens?"
+        },
+        {
+          "text": "How do I get tested?"
+        },
+        {
+          "text": "how to test myself"
+        },
+        {
+          "text": "Can I get tested at my doctors?"
+        },
+        {
+          "text": "Where can I get tested?"
+        },
+        {
+          "text": "testing spots for coronavirus?"
+        }
+      ],
+      "description": "Where to get tested for Covid 19."
+    },
+    {
+      "intent": "Covid_Cleaning_Disinfecting",
+      "examples": [
+        {
+          "text": "Are there disinfectants available that can inactivate (kill) COVID-19?"
+        },
+        {
+          "text": "How often do I need to clean my home to prevent the spread of coronavirus?"
+        },
+        {
+          "text": "Does alcohol kill the coronavirus?"
+        },
+        {
+          "text": "All the stores are out of disinfecting wipes, what do I do?"
+        },
+        {
+          "text": "Should I spray myself or my kids with disinfectant?"
+        },
+        {
+          "text": "What cleaning methods kill the coronavirus?"
+        },
+        {
+          "text": "Whats the difference between cleaning and disinfecting?"
+        },
+        {
+          "text": "how do i get rid of germs at my home"
+        },
+        {
+          "text": "How do I clean my home properly?"
+        },
+        {
+          "text": "Do I need lysol wipes?"
+        },
+        {
+          "text": "Do I have to use bleach to kill coronavirus?"
+        }
+      ],
+      "description": "How to clean and disinfect."
+    },
+    {
+      "intent": "goodbyes",
+      "examples": [
+        {
+          "text": "shut up"
+        },
+        {
+          "text": "see ya soon"
+        },
+        {
+          "text": "see ya later"
+        },
+        {
+          "text": "out of time"
+        },
+        {
+          "text": "over and out"
+        },
+        {
+          "text": "run"
+        },
+        {
+          "text": "see ya"
+        },
+        {
+          "text": "bye"
+        },
+        {
+          "text": "au revoir"
+        },
+        {
+          "text": "adios"
+        },
+        {
+          "text": "see you"
+        },
+        {
+          "text": "see you later"
+        },
+        {
+          "text": "should be going"
+        },
+        {
+          "text": "should go"
+        },
+        {
+          "text": "signing off"
+        },
+        {
+          "text": "signing out"
+        },
+        {
+          "text": "so long"
+        },
+        {
+          "text": "soon"
+        },
+        {
+          "text": "take care"
+        },
+        {
+          "text": "take it easy"
+        },
+        {
+          "text": "talk to you soon"
+        },
+        {
+          "text": "talk to you later"
+        },
+        {
+          "text": "thanks watson"
+        },
+        {
+          "text": "no thank you"
+        },
+        {
+          "text": "youre welcome now bye"
+        },
+        {
+          "text": "i'm leaving"
+        },
+        {
+          "text": "thank you for the info"
+        },
+        {
+          "text": "sorry got to go"
+        },
+        {
+          "text": "gtg go right now ok"
+        },
+        {
+          "text": "got to go bye nice time talking to you"
+        },
+        {
+          "text": "goodbye joto"
+        },
+        {
+          "text": "good bye hohoho"
+        },
+        {
+          "text": "ok bye"
+        },
+        {
+          "text": "dont need your help at all"
+        },
+        {
+          "text": "done"
+        },
+        {
+          "text": "be quiet robot"
+        },
+        {
+          "text": "thx"
+        },
+        {
+          "text": "i am done with you"
+        },
+        {
+          "text": "o thank u"
+        },
+        {
+          "text": "ok thanks"
+        },
+        {
+          "text": "ok thank you for your time"
+        },
+        {
+          "text": "thanks for your help"
+        },
+        {
+          "text": "have a good one"
+        },
+        {
+          "text": "gtg"
+        },
+        {
+          "text": "gotta run"
+        },
+        {
+          "text": "gotta go"
+        },
+        {
+          "text": "bye im going to play a game"
+        },
+        {
+          "text": "g'day"
+        },
+        {
+          "text": "good night"
+        },
+        {
+          "text": "bye bye"
+        },
+        {
+          "text": "adieu"
+        },
+        {
+          "text": "my time is up"
+        },
+        {
+          "text": "bye now"
+        },
+        {
+          "text": "catch ya later"
+        },
+        {
+          "text": "cya"
+        },
+        {
+          "text": "go"
+        },
+        {
+          "text": "goodbye"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "good day"
+        },
+        {
+          "text": "gday"
+        },
+        {
+          "text": "farewell"
+        },
+        {
+          "text": "stop"
+        },
+        {
+          "text": "ok thank you"
+        },
+        {
+          "text": "thank you"
+        },
+        {
+          "text": "then bye"
+        },
+        {
+          "text": "toodles"
+        },
+        {
+          "text": "thanks"
+        },
+        {
+          "text": "ttyl"
+        },
+        {
+          "text": "ty"
+        },
+        {
+          "text": "no problem"
+        },
+        {
+          "text": "logging off"
+        },
+        {
+          "text": "leave"
+        },
+        {
+          "text": "laters"
+        },
+        {
+          "text": "later"
+        },
+        {
+          "text": "im leaving"
+        }
+      ]
+    },
+    {
+      "intent": "WhatisCovid",
+      "examples": [
+        {
+          "text": "What is COVID 19?"
+        },
+        {
+          "text": "What is SARS-CoV-2?"
+        },
+        {
+          "text": "When did  Corona Virus (COVID-19) appear?"
+        },
+        {
+          "text": "How did the  Corona Virus (COVID-19) spread from China?"
+        },
+        {
+          "text": "covid 19"
+        },
+        {
+          "text": "What is a novel coronavirus?"
+        },
+        {
+          "text": "Why did  Corona Virus (COVID-19) spread?"
+        },
+        {
+          "text": "What is Covid"
+        },
+        {
+          "text": "what is carona virus?"
+        },
+        {
+          "text": "When did  Corona Virus (COVID-19) start?"
+        },
+        {
+          "text": "Carona Virus"
+        },
+        {
+          "text": "Where did  Corona Virus (COVID-19) appear?"
+        },
+        {
+          "text": "Where was  Corona Virus (COVID-19) first spotted."
+        }
+      ]
+    },
+    {
+      "intent": "ChildrenSocializing",
+      "examples": [
+        {
+          "text": "Can my kid still go to group activities?"
+        },
+        {
+          "text": "Is social distancing important for kids too?"
+        },
+        {
+          "text": "While school is out can my child go to sports practice?"
+        },
+        {
+          "text": "While school�s out, can my child hang out with their friends?"
+        },
+        {
+          "text": "Children socializing"
+        },
+        {
+          "text": "do kids need to limit in person contact?"
+        }
+      ]
+    },
+    {
+      "intent": "howtowearmask",
+      "examples": [
+        {
+          "text": "How to wear a mask"
+        },
+        {
+          "text": "how to wear mask"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "HealthDeptRecommendedActions",
+      "examples": [
+        {
+          "text": "can CDC help my local board of health"
+        },
+        {
+          "text": "can CDC help my local health dept get protective gear?"
+        },
+        {
+          "text": "how do I ship a specimen to the CDC lab?"
+        },
+        {
+          "text": "What should healthcare professionals and health departments do?"
+        },
+        {
+          "text": "does CDC provide protocols for labs to test covid-19?"
+        },
+        {
+          "text": "Health dept recommended actions"
+        }
+      ]
+    },
+    {
+      "intent": "nosymptoms",
+      "examples": [
+        {
+          "text": "person with no symptoms"
+        },
+        {
+          "text": "Can COVID-19 be caught from a person who has no symptoms?"
+        },
+        {
+          "text": "no symptoms"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "AnimalContact",
+      "examples": [
+        {
+          "text": "can I get this from my cat?"
+        },
+        {
+          "text": "Should I avoid contact with pets or other animals if I am sick with COVID-19?"
+        },
+        {
+          "text": "can I get covid-19 from my pet?"
+        },
+        {
+          "text": "do dogs and cats get sick from corona virus?"
+        },
+        {
+          "text": "Animal contact"
+        },
+        {
+          "text": "can I get this from my dog?"
+        },
+        {
+          "text": "can my dog catch corona virus?"
+        }
+      ]
+    },
+    {
+      "intent": "Covid_Symptoms",
+      "examples": [
+        {
+          "text": "I have travled recently. What do I do?"
+        },
+        {
+          "text": "should i get tested"
+        },
+        {
+          "text": "should I get tested if I have a cough?"
+        },
+        {
+          "text": "What are symptoms?"
+        },
+        {
+          "text": "am i sick"
+        },
+        {
+          "text": "Do I need to get tested?"
+        },
+        {
+          "text": "How do i know if I'm sick"
+        },
+        {
+          "text": "I think I'm infected"
+        },
+        {
+          "text": "I traveled to Italy recently. What do I do?"
+        },
+        {
+          "text": "I think I might have the virus."
+        }
+      ],
+      "description": "Symptoms related to Covid 19."
+    },
+    {
+      "intent": "NegativeTestResults",
+      "examples": [
+        {
+          "text": "Negative test results"
+        },
+        {
+          "text": "Does a negative test mean a person does not have COVID-19?"
+        },
+        {
+          "text": "Can you have corona virus and still test negative?"
+        },
+        {
+          "text": "if you test negative can you still get COVID-19 later?"
+        },
+        {
+          "text": "Can a person test negative and later test positive for COVID-19?"
+        }
+      ]
+    },
+    {
+      "intent": "Schoolfromhome",
+      "examples": [
+        {
+          "text": "While school�s out, how can I help my child continue learning?"
+        },
+        {
+          "text": "I need tips for at home learning"
+        },
+        {
+          "text": "School from home"
+        },
+        {
+          "text": "Tips for my child's schedule when school is canceled."
+        },
+        {
+          "text": "how do I keep my child engaged in schoolwork?"
+        }
+      ]
+    },
+    {
+      "intent": "spreadinquarantine",
+      "examples": [
+        {
+          "text": "does quarantining people stop the spread of corona virus?"
+        },
+        {
+          "text": "what is the incubation period of this corona virus?"
+        },
+        {
+          "text": "Can someone who has been quarantined for COVID-19 spread the illness to others?"
+        },
+        {
+          "text": "spread in quarantine"
+        },
+        {
+          "text": "does putting infected people into quarantine help?"
+        },
+        {
+          "text": "what is a quarantine?"
+        }
+      ]
+    },
+    {
+      "intent": "Wearingfacemasks",
+      "examples": [
+        {
+          "text": "Do face masks do anything?"
+        },
+        {
+          "text": "Do I need to wear a face mask?"
+        },
+        {
+          "text": "Should I wear a face mask?"
+        },
+        {
+          "text": "Does CDC recommend the use of facemask to prevent COVID-19?"
+        },
+        {
+          "text": "Should my child wear a face mask?"
+        },
+        {
+          "text": "Someone in my household is sick should we wear masks at home?"
+        },
+        {
+          "text": "What do face masks do?"
+        },
+        {
+          "text": "Wearing face masks"
+        },
+        {
+          "text": "Should I use a face mask when in public?"
+        },
+        {
+          "text": "is it necessary to wear a mask"
+        }
+      ]
+    },
+    {
+      "intent": "Whythename",
+      "examples": [
+        {
+          "text": "why was covid-19 used to name this disease?"
+        },
+        {
+          "text": "is covid an abbreviation?"
+        },
+        {
+          "text": "is corona virus the same as covid-19?"
+        },
+        {
+          "text": "why is covid-19 the name for this disease?"
+        },
+        {
+          "text": "Why is the disease being called coronavirus disease 2019, COVID-19?"
+        },
+        {
+          "text": "Why the name"
+        }
+      ]
+    },
+    {
+      "intent": "How_many_cases",
+      "examples": [
+        {
+          "text": "How many cases so far?"
+        },
+        {
+          "text": "What are the stats on COVID-19?"
+        },
+        {
+          "text": "What is the stats on Corona Virus?"
+        },
+        {
+          "text": "How many cases of corona virus has been detected?"
+        },
+        {
+          "text": "How many cases of covid 19 have been detected?"
+        },
+        {
+          "text": "how many cases in the world"
+        },
+        {
+          "text": "How many cases of Covid 19 has been detected?"
+        },
+        {
+          "text": "how many cases in india?"
+        },
+        {
+          "text": "Total Cases so Far"
+        }
+      ]
+    },
+    {
+      "intent": "HowDoesItSpread",
+      "examples": [
+        {
+          "text": "How does the virus spread?"
+        },
+        {
+          "text": "is corona virus contagious?"
+        },
+        {
+          "text": "How does it spread"
+        },
+        {
+          "text": "how did the virus spread from China?"
+        },
+        {
+          "text": "does the corona virus spread easily?"
+        }
+      ]
+    },
+    {
+      "intent": "CommunitySpread",
+      "examples": [
+        {
+          "text": "Why is community spread of this virus important?"
+        },
+        {
+          "text": "Does  Corona Virus (COVID-19) spread to an entire community?"
+        },
+        {
+          "text": "How does community spread happen?"
+        },
+        {
+          "text": "Community Spread"
+        },
+        {
+          "text": "Can community spread happen?"
+        },
+        {
+          "text": "What does that term community spread mean?"
+        },
+        {
+          "text": "What is community spread?"
+        }
+      ]
+    },
+    {
+      "intent": "CDC_WHO_Response",
+      "examples": [
+        {
+          "text": "What is the world health organization doing to help?"
+        },
+        {
+          "text": "Does CDC work to protect public health?"
+        },
+        {
+          "text": "How is CDC helping Americans prepare?"
+        },
+        {
+          "text": "CDC response"
+        },
+        {
+          "text": "What is the center for disease control doing to help?"
+        },
+        {
+          "text": "What is CDC doing about COVID-19?"
+        },
+        {
+          "text": "What is the WHO doing to help?"
+        },
+        {
+          "text": "Does WHO work to protect public health?"
+        },
+        {
+          "text": "WHO response"
+        }
+      ]
+    },
+    {
+      "intent": "sample_test",
+      "examples": [
+        {
+          "text": "sample test"
+        },
+        {
+          "text": "how can i do sample covid-19 test"
+        },
+        {
+          "text": "how can i take sample test for COVID-19"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "vaccine",
+      "examples": [
+        {
+          "text": "is there any vaccine"
+        },
+        {
+          "text": "what is the vaccine"
+        },
+        {
+          "text": "vaccine"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "DisinfectingSurfaces",
+      "examples": [
+        {
+          "text": "what products are best at disinfecting?"
+        },
+        {
+          "text": "Where do i need to disinfect?"
+        },
+        {
+          "text": "Do I need to clean with bleach?"
+        },
+        {
+          "text": "What cleaning products should I use to protect against COVID-19?"
+        },
+        {
+          "text": "How do I clean my home to remove virus molecules"
+        },
+        {
+          "text": "how should i disinfect my home?"
+        },
+        {
+          "text": "Disinfecting surfaces"
+        }
+      ]
+    },
+    {
+      "intent": "News_Corona_Virus",
+      "examples": [
+        {
+          "text": "What is in the NEWS?"
+        },
+        {
+          "text": "whats happening"
+        },
+        {
+          "text": "Whats happening?"
+        },
+        {
+          "text": "NEWS"
+        }
+      ]
+    },
+    {
+      "intent": "warmerweather",
+      "examples": [
+        {
+          "text": "warmer weather"
+        },
+        {
+          "text": "i heard the spread will slow down in warmer months"
+        },
+        {
+          "text": "Will warm weather stop the outbreak of COVID-19?"
+        },
+        {
+          "text": "will the virus go away during warmer months?"
+        },
+        {
+          "text": "does it get less contagious in the summer?"
+        }
+      ]
+    },
+    {
+      "intent": "HandwashingTips",
+      "examples": [
+        {
+          "text": "Should I use soap and water or a hand sanitizer to protect against COVID-19?"
+        },
+        {
+          "text": "will washing my hands help protect me?"
+        },
+        {
+          "text": "handwashing products"
+        },
+        {
+          "text": "will frequent handwashing help?"
+        },
+        {
+          "text": "how do i wash my hands correctly?"
+        },
+        {
+          "text": "Handwashing tips"
+        },
+        {
+          "text": "should i keep washing my hands"
+        },
+        {
+          "text": "is hand sanitizer effective against covid-19?"
+        }
+      ]
+    },
+    {
+      "intent": "DataSource",
+      "examples": [
+        {
+          "text": "Where do you get your information?"
+        },
+        {
+          "text": "Where did you learn this?"
+        },
+        {
+          "text": "Data Disclaimer"
+        },
+        {
+          "text": "Are you sure?"
+        },
+        {
+          "text": "Is this information accurate?"
+        },
+        {
+          "text": "Is this true?"
+        },
+        {
+          "text": "How do you know this?"
+        }
+      ]
+    },
+    {
+      "intent": "Wherediditstart",
+      "examples": [
+        {
+          "text": "What is the source of the virus?"
+        },
+        {
+          "text": "Where did corona virus originate from?"
+        },
+        {
+          "text": "Where did it start"
+        },
+        {
+          "text": "which location did corona virus start from?"
+        }
+      ]
+    },
+    {
+      "intent": "Covid_Travel_Restrictions",
+      "examples": [
+        {
+          "text": "Do I need a doctor's note to travel?"
+        },
+        {
+          "text": "Are there any travel restrictions in place yet?"
+        },
+        {
+          "text": "What if I urgently need to take a flight?"
+        },
+        {
+          "text": "Can I travel?"
+        },
+        {
+          "text": "Should I cancel my flight to Denver?"
+        },
+        {
+          "text": "Is it safe to fly to Seattle?"
+        },
+        {
+          "text": "I just travelled. What do I do?"
+        },
+        {
+          "text": "do i need to stay home"
+        }
+      ],
+      "description": "Information on travel during Covid 19 pandemic."
+    },
+    {
+      "intent": "Testing",
+      "examples": [
+        {
+          "text": "Testing"
+        },
+        {
+          "text": "can my doctor test me if I start feeling sick?"
+        },
+        {
+          "text": "who should get tested?"
+        },
+        {
+          "text": "Should I be tested for COVID-19?"
+        },
+        {
+          "text": "should I head to the doctor if I show symptoms?"
+        }
+      ]
+    },
+    {
+      "intent": "Covid_Case_Count",
+      "examples": [
+        {
+          "text": "has anyone died of coronavirus in my state?"
+        },
+        {
+          "text": "is anyone near me sick"
+        },
+        {
+          "text": "how many people are sick in the US?"
+        },
+        {
+          "text": "how many people are infected in the us?"
+        },
+        {
+          "text": "How many coronavirus cases are there in my area?"
+        },
+        {
+          "text": "How many cases of the virus are there in the world?"
+        },
+        {
+          "text": "Does MA have a confirmed COVID case?"
+        },
+        {
+          "text": "Are there any cases near me?"
+        },
+        {
+          "text": "covid number in my state?"
+        },
+        {
+          "text": "Does the US have a confirmed COVID case?"
+        },
+        {
+          "text": "How many cases of COVID-19 are in the US?"
+        },
+        {
+          "text": "what is the count of coronavirus infected people?"
+        },
+        {
+          "text": "Where are cases?"
+        }
+      ],
+      "description": "Information on number of Covid 19 cases."
+    },
+    {
+      "intent": "Covid_Description",
+      "examples": [
+        {
+          "text": "Is the coronavirus the same as MERS?"
+        },
+        {
+          "text": "Is the coronavirus the same as a cold?"
+        },
+        {
+          "text": "How is COVID-19 spread?"
+        },
+        {
+          "text": "How dangerous is this?"
+        },
+        {
+          "text": "Has the cause of COVID-19 been identified?"
+        },
+        {
+          "text": "Where did the coronavirus come from?"
+        },
+        {
+          "text": "Is the coronavirus the same as SARS?"
+        },
+        {
+          "text": "what is novel coronavirus?"
+        },
+        {
+          "text": "What is COVID-19?"
+        },
+        {
+          "text": "what is the coronavirus?"
+        }
+      ],
+      "description": "Overview of Covid 19."
+    },
+    {
+      "intent": "highrisk",
+      "examples": [
+        {
+          "text": "high risk"
+        },
+        {
+          "text": "who will get effected soon"
+        },
+        {
+          "text": "people who are at high risk"
+        },
+        {
+          "text": "risk"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Symptomsinchildren",
+      "examples": [
+        {
+          "text": "what are the symptoms in children?"
+        },
+        {
+          "text": "Symptoms in children"
+        },
+        {
+          "text": "do kids get different symptoms?"
+        },
+        {
+          "text": "do children react differently to the virus than adults do?"
+        },
+        {
+          "text": "Are the symptoms of COVID-19 different in children than in adults?"
+        }
+      ]
+    },
+    {
+      "intent": "precautions",
+      "examples": [
+        {
+          "text": "precautions for covid"
+        },
+        {
+          "text": "precautions of corona"
+        },
+        {
+          "text": "precautions for corona"
+        },
+        {
+          "text": "precautions for corona virus"
+        },
+        {
+          "text": "what precautions"
+        },
+        {
+          "text": "what are the precautions"
+        },
+        {
+          "text": "What are the precautions to be taken"
+        },
+        {
+          "text": "precautions"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Covid_Event_Shutdowns",
+      "examples": [
+        {
+          "text": "Should I feel safe going to the movies?"
+        },
+        {
+          "text": "What sports are being cancelled?"
+        },
+        {
+          "text": "What is the maximum number of people allowed to meet right now?"
+        },
+        {
+          "text": "How do I know if my concert is cancelled?"
+        },
+        {
+          "text": "When will the NCAA championships be held?"
+        },
+        {
+          "text": "Are events being shut down?"
+        },
+        {
+          "text": "Are groups of people allowed to meet?"
+        },
+        {
+          "text": "events and large gatherings"
+        },
+        {
+          "text": "Will I get a refund for a ticket I purchased?"
+        },
+        {
+          "text": "When will the NHL return?"
+        },
+        {
+          "text": "Why is the government shutting down my event?"
+        }
+      ],
+      "description": "Information on events and large groups."
+    },
+    {
+      "intent": "Symptoms",
+      "examples": [
+        {
+          "text": "What are the symptoms and complications that COVID-19 can cause?"
+        },
+        {
+          "text": "does covid-19 cause fever?"
+        },
+        {
+          "text": "what symptoms should I watch for?"
+        },
+        {
+          "text": "does covid-19 cause coughing?"
+        },
+        {
+          "text": "is fever a sign of this infection?"
+        },
+        {
+          "text": "Symptoms"
+        }
+      ]
+    },
+    {
+      "intent": "ChildrenAndFaceMasks",
+      "examples": [
+        {
+          "text": "Children and facemasks"
+        },
+        {
+          "text": "Should children wear masks?"
+        },
+        {
+          "text": "can my child play outside without a mask?"
+        },
+        {
+          "text": "does my daughter need to wear a facemask?"
+        },
+        {
+          "text": "are facemasks recommended for children"
+        }
+      ]
+    },
+    {
+      "intent": "AttendingFuneral",
+      "examples": [
+        {
+          "text": "Can I go to a funeral?"
+        },
+        {
+          "text": "Should I avoid funerals?"
+        },
+        {
+          "text": "Can I go to a funeral of someone who died of  Corona Virus (COVID-19)?"
+        },
+        {
+          "text": "Are funerals safe?"
+        },
+        {
+          "text": "Am I at risk if I go to a funeral or visitation service for someone who died of COVID-19?"
+        }
+      ]
+    },
+    {
+      "intent": "Covid_Protecting_Against_Infection",
+      "examples": [
+        {
+          "text": "Is it even possible to avoid the virus?"
+        },
+        {
+          "text": "How to Prevent the Spread of the Virus"
+        },
+        {
+          "text": "Do I need to wear a face mask?"
+        },
+        {
+          "text": "What’s the best way to prevent coronavirus?"
+        },
+        {
+          "text": "How do I protect myself?"
+        },
+        {
+          "text": "how do I ensure my family is safe?"
+        },
+        {
+          "text": "How do I avoid covid-19?"
+        },
+        {
+          "text": "what should i do to contain the spread of the virus"
+        },
+        {
+          "text": "prevent the spread of the virus"
+        },
+        {
+          "text": "How can I protect my family from the spread of coronavirus?"
+        },
+        {
+          "text": "What is the risk of my child becoming sick with COVID-19?"
+        },
+        {
+          "text": "How do I prevent myself from getting sick?"
+        },
+        {
+          "text": "How often should I wash my hands?"
+        }
+      ],
+      "description": "How to prevent infection."
+    },
+    {
+      "intent": "Covid_Testing_Results",
+      "examples": [
+        {
+          "text": "When can I get my results?"
+        },
+        {
+          "text": "test outcomes?"
+        },
+        {
+          "text": "Do my test results come in the mail?"
+        },
+        {
+          "text": "Who will give me my COVID test results?"
+        },
+        {
+          "text": "How can I get my test results?"
+        },
+        {
+          "text": "Its been a week. Who can I call to get my test results?"
+        },
+        {
+          "text": "My doctor hasn't given me my test results back yet."
+        }
+      ],
+      "description": "How to get Covid 19 test results."
+    },
+    {
+      "intent": "greeting",
+      "examples": [
+        {
+          "text": "feeling a bit low"
+        },
+        {
+          "text": "hola"
+        },
+        {
+          "text": "hiya"
+        },
+        {
+          "text": "hey there"
+        },
+        {
+          "text": "hello watson"
+        },
+        {
+          "text": "ciao"
+        },
+        {
+          "text": "buenos dias"
+        },
+        {
+          "text": "bonjour"
+        },
+        {
+          "text": "aloha"
+        },
+        {
+          "text": "Goodafternoon"
+        },
+        {
+          "text": "Goodevening"
+        },
+        {
+          "text": "Goodmorning"
+        },
+        {
+          "text": "Good Afternoon"
+        },
+        {
+          "text": "Good Morning"
+        },
+        {
+          "text": "Good Evening"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "heya"
+        },
+        {
+          "text": "hii"
+        },
+        {
+          "text": "hei"
+        },
+        {
+          "text": "Hai"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "howdy"
+        },
+        {
+          "text": "hie"
+        },
+        {
+          "text": "gm"
+        },
+        {
+          "text": "hi there"
+        },
+        {
+          "text": "namaste"
+        },
+        {
+          "text": "Olla"
+        },
+        {
+          "text": "yello"
+        },
+        {
+          "text": "yo"
+        },
+        {
+          "text": "hey"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "tell_me_about",
+      "examples": [
+        {
+          "text": "novel coronavirus",
+          "mentions": [
+            {
+              "entity": "about_of_interest",
+              "location": [
+                6,
+                17
+              ]
+            }
+          ]
+        },
+        {
+          "text": "tell me about novel corona virus",
+          "mentions": [
+            {
+              "entity": "about_of_interest",
+              "location": [
+                20,
+                32
+              ]
+            }
+          ]
+        },
+        {
+          "text": "tell me about COVID-19",
+          "mentions": [
+            {
+              "entity": "about_of_interest",
+              "location": [
+                14,
+                22
+              ]
+            }
+          ]
+        },
+        {
+          "text": "tell me about corona virus",
+          "mentions": [
+            {
+              "entity": "about_of_interest",
+              "location": [
+                14,
+                26
+              ]
+            }
+          ]
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "reply",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "no",
+          "synonyms": [
+            "definitely not",
+            "don't think so",
+            "dont think so",
+            "i think not",
+            "nope",
+            "not at this time",
+            "not now"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "yes",
+          "synonyms": [
+            "definitely",
+            "go for it",
+            "let's do it",
+            "ok",
+            "please",
+            "sure",
+            "why not",
+            "yeah",
+            "yes",
+            "you bet",
+            "you betcha",
+            "yep"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-location",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "zip_code",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "@sys-number",
+          "patterns": [
+            "(\\b|\\s)\\d{5}(\\b|\\s)"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "landmark",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "times square",
+          "synonyms": [
+            "time sqaure",
+            "time square",
+            "times sqaure"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "grand central",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "empire state building",
+          "synonyms": [
+            "empire state",
+            "emprire state"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "school_type",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "middle school",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "college",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "preschool",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "high school",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "grade school",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "greeting",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Good Evening",
+          "synonyms": [
+            "evening"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Hi",
+          "synonyms": [
+            "hai",
+            "Hello",
+            "hey",
+            "hiya",
+            "howdy",
+            "greetings",
+            "dear",
+            "thank",
+            "hoi",
+            "yeh",
+            "heya",
+            "hota",
+            "hi"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Good Morning",
+          "synonyms": [
+            "gm",
+            "morning",
+            "goodmorning"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Good Afternoon",
+          "synonyms": [
+            "afternoon"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-time",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "about_of_interest",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "coronavirus",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "corona virus",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "COVID-19",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "phone",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "US Phone pattern",
+          "patterns": [
+            "(\\d{3})-(\\d{3})-(\\d{4})"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://eu-gb.functions.cloud.ibm.com/api/v1/web/aravindreddy.mokireddy%40gmail.com_dev/default/COVID-19%20INFO.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "1.Clean your hands often. Use soap and water, or an alcohol-based hand rub.Maintain a safe distance from anyone who is coughing or sneezing.2.Don’t touch your eyes, nose or mouth.3.Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.4.Stay home if you feel unwell.5.If you have a fever, a cough, and difficulty breathing, seek medical attention. Call in advance.6.Follow the directions of your local health authority."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1587722866781",
+      "conditions": "#Covid_Protecting_Against_Infection",
+      "dialog_node": "response_3_1587743773013",
+      "previous_sibling": "response_4_1587735008783"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "1.Clean your hands often. Use soap and water, or an alcohol-based hand rub.Maintain a safe distance from anyone who is coughing or sneezing.2.Don’t touch your eyes, nose or mouth.3.Cover your nose and mouth with your bent elbow or a tissue when you cough or sneeze.4.Stay home if you feel unwell.5.If you have a fever, a cough, and difficulty breathing, seek medical attention. Call in advance.6.Follow the directions of your local health authority."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1587722866781",
+      "conditions": "#precautions",
+      "dialog_node": "response_4_1587735008783"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, I am the COVID  Communication Bot ready to answer your questions about COVID-19. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1587719597664",
+      "conditions": "#greeting",
+      "dialog_node": "response_9_1587738280751"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "I am defining @object_of_interest : <? $webhook_result_1.extract.extract ?>"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1587742717591",
+      "conditions": "$webhook_result_1.extract.type==”standard”",
+      "dialog_node": "response_10_1587742796052",
+      "previous_sibling": "response_6_1587742763644"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "I am not quite sure about the term @object_of_interest . Please try another topic."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_6_1587742717591",
+      "conditions": "anything_else",
+      "dialog_node": "response_1_1587742774172",
+      "previous_sibling": "response_10_1587742796052"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": " I am defining @object_of_interest : <? $webhook_result_1.extract.extract ?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "$webhook_result_1.extract.title  ",
+            "source": "$webhook_result_1.extract.thumbnail.source",
+            "description": "$webhook_result_1.extract.description  ",
+            "response_type": "image"
+          }
+        ]
+      },
+      "parent": "node_6_1587742717591",
+      "conditions": "$webhook_result_1.extract.thumbnail",
+      "dialog_node": "response_6_1587742763644"
+    },
+    {
+      "type": "standard",
+      "title": "Quarantine",
+      "conditions": "#spreadinquarantine",
+      "dialog_node": "node_5_1587725869055",
+      "previous_sibling": "node_4_1587725862486"
+    },
+    {
+      "type": "standard",
+      "title": "Name of virus",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "WHO announced “COVID-19” as the name of this new disease on 11 February 2020, following guidelines previously developed with the World Organisation for Animal Health (OIE) and the Food and Agriculture Organization of the United Nations (FAO).\nIn COVID-19 CO mean CORONA , VI mean VIRUS D mean DISEASE and 19 mean 2019 as corona virus was first discovered in 2019 in Wuhan China."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Whythename",
+      "dialog_node": "node_5_1587722853857",
+      "previous_sibling": "node_7_1587722852072"
+    },
+    {
+      "type": "standard",
+      "title": "vaccine",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Not yet. To date, there is no vaccine and no specific antiviral medicines against COVID-19. However, .people, particularly those with serious illness, may need to be hospitalized so that they can receive life-saving treatment for complications.. Most patients recover thanks to such care. \n\nPossible vaccines and some specific drug treatments are currently under investigation. They are being tested through clinical trials. WHO is coordinating efforts to develop vaccines and medicines to prevent and treat COVID-19. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#vaccine",
+      "dialog_node": "node_4_1587725862486",
+      "previous_sibling": "node_6_1587722866781"
+    },
+    {
+      "type": "standard",
+      "title": "Animal Contact",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You should restrict contact with pets and other animals while you are sick with COVID-19, just like you would around other people. Although there have not been reports of pets or other animals becoming sick with COVID-19, it is still recommended that people sick with COVID-19 limit contact with animals until more information is known about the virus. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#AnimalContact",
+      "dialog_node": "node_5_1587726730759",
+      "previous_sibling": "node_3_1587726728319"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_6_1587726733191",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Precautions",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#precautions || #Covid_Protecting_Against_Infection",
+      "dialog_node": "node_6_1587722866781",
+      "previous_sibling": "node_9_1587722863083"
+    },
+    {
+      "type": "standard",
+      "title": "Should i wear a mask",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "WHO does not recommend that people who are well wear a facemask to protect themselves from respiratory illnesses, including COVID-19. You should only wear a mask if a healthcare professional recommends it. A facemask should be used by people who have COVID-19 and are showing symptoms. This is to protect others from the risk of getting infected. The use of facemasks also is crucial for health workers and other people who are taking care of someone infected with COVID-19 in close settings (at home or in a health care facility)."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Wearingfacemasks",
+      "dialog_node": "node_5_1587725875446",
+      "previous_sibling": "node_3_1587725871409"
+    },
+    {
+      "type": "standard",
+      "title": "How to wear a mask",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "If you choose to wear a mask:\n\n1.Before touching the mask, clean hands with an alcohol-based hand rub or soap and water\n2.Take the mask and inspect it for tears or holes.\nOrient which side is the top side (where the metal strip is).\n3.Ensure the proper side of the mask faces outwards (the coloured side).\n4.Place the mask to your face. Pinch the metal strip or stiff edge of the mask so it moulds to the shape of your nose.\n5.Pull down the mask’s bottom so it covers your mouth and your chin.\n6.Do not touch the mask while you are wearing it for protection.\n7.After use, take off the mask with clean hands; remove the elastic loops from behind the ears while keeping the mask away from your face and clothes, to avoid touching potentially contaminated surfaces of the mask.\n7.Discard the mask in a closed bin immediately after use. Do not reuse the mask.\n8.Perform hand hygiene after touching or discarding the mask – Use alcohol-based hand rub or, if visibly soiled, wash your hands with soap and water."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#howtowearmask",
+      "dialog_node": "node_3_1587725871409",
+      "previous_sibling": "node_5_1587725869055"
+    },
+    {
+      "type": "standard",
+      "title": "Symptoms",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The most common symptoms of COVID-19 are fever, dry cough, and tiredness. Some patients may have aches and pains, nasal congestion, sore throat or diarrhea. These symptoms are usually mild and begin gradually. Some people become infected but only have very mild symptoms. Most people (about 80%) recover from the disease without needing hospital treatment. Around 1 out of every 5 people who gets COVID-19 becomes seriously ill and develops difficulty breathing. Older people, and those with underlying medical problems like high blood pressure, heart and lung problems, diabetes, or cancer , are at higher risk of developing serious illness. However anyone can catch COVID-19 and become seriously ill. Even people with very mild symptoms of COVID-19 can transmit the virus. People of all ages who experience fever, cough and difficulty breathing should seek medical attention."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Symptoms",
+      "dialog_node": "node_4_1587722859118",
+      "previous_sibling": "node_10_1587722855516"
+    },
+    {
+      "type": "standard",
+      "title": "people at risk",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Based on what we know now, those at high-risk for severe illness from COVID-19 are:\n\n1.People 65 years and older\nPeople who live in a nursing home or long-term care facility\n\n2.People of all ages with underlying medical conditions, particularly if not well controlled, including:\n\n3.People with chronic lung disease or moderate to severe asthma\n\n4.People who have serious heart conditions\n\n5.People who are immunocompromised.Many conditions can cause a person to be immunocompromised, including cancer treatment, smoking, bone marrow or organ transplantation, immune deficiencies, poorly controlled HIV or AIDS, and prolonged use of corticosteroids and other immune weakening medications\n\n6.People with severe obesity (body mass index [BMI] of 40 or higher)\n\n7.People with diabetes\n\n8.People with chronic kidney disease undergoing dialysis\n\n9.People with liver disease"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#highrisk",
+      "dialog_node": "node_7_1587747234184",
+      "previous_sibling": "node_8_1587738901114"
+    },
+    {
+      "type": "standard",
+      "title": "Goodbye",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Stay Home Stay Safe....If you have any problem call to 104."
+              },
+              {
+                "text": "Take Care"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#goodbyes",
+      "dialog_node": "node_4_1587719600575",
+      "previous_sibling": "node_9_1587719597664"
+    },
+    {
+      "type": "standard",
+      "title": "CDC and WHO response",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "This is an emerging, rapidly evolving situation and CDC and WHO will continue to provide updated information as it becomes available. CDC  and WHO works 24/7 to protect peoples health.  For CDC guidance please visit: https://www.cdc.gov/coronavirus/2019-nCoV/index.html\nFor WHO guidance please visit:\nhttps://www.who.int/covid-19"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#CDC_WHO_Response",
+      "dialog_node": "node_3_1587726728319",
+      "previous_sibling": "node_6_1587726725400"
+    },
+    {
+      "type": "standard",
+      "title": "Testing",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "If you have the symptoms like fever, cough or difficulty breathing or have been in close contact with a person known to have COVID-19 or have recently traveled from an area with ongoing spread of COVID-19 , stay home and call to nearby hospital and ask for the treatment. The people with underlying medication for breathing problem or other sort of problems please reach out to your medication provider."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Testing",
+      "dialog_node": "node_9_1587725878016",
+      "previous_sibling": "node_5_1587725875446"
+    },
+    {
+      "type": "standard",
+      "title": "Funerals",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "WHO and CDC requests people not to attend any sort of funerals.If the person who is dead has COVID-19 there are more chances of spreading of COVID-19 to the people who attend funerals.In India there is such issue took place at some funerals in delhi."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#AttendingFuneral",
+      "dialog_node": "node_6_1587726725400",
+      "previous_sibling": "node_8_1587726721934"
+    },
+    {
+      "type": "standard",
+      "title": "Schooling at home",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Due to COVID-19 the schools and colleges were closed and the students are requested for self study and the educational institutions are using the online platforms for teaching.So students have to utilize this time and go through their studies in this time."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Schoolfromhome",
+      "dialog_node": "node_6_1587726733191",
+      "previous_sibling": "node_5_1587726730759"
+    },
+    {
+      "type": "standard",
+      "title": "Test is Negative",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Using the CDC-developed diagnostic test, a negative result means that the virus that causes COVID-19 was not found in the persons sample. In the early stages of infection, it is possible the virus will not be detected. For COVID-19, a negative test result for a sample collected while a person has symptoms likely means that the COVID-19 virus is not causing their current illness."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#NegativeTestResults",
+      "dialog_node": "node_8_1587726721934",
+      "previous_sibling": "node_9_1587725878016"
+    },
+    {
+      "type": "standard",
+      "title": "tell me about",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {},
+          "result_variable": "webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#tell_me_about && @about_of_interest",
+      "dialog_node": "node_6_1587742717591",
+      "previous_sibling": "node_9_1587747537474"
+    },
+    {
+      "type": "standard",
+      "title": "No Symptoms",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "COVID-19 is mainly spread through respiratory droplets expelled by someone who is coughing or has other symptoms such as fever or tiredness. Many people with COVID-19 experience only mild symptoms. This is particularly true in the early stages of the disease. It is possible to catch COVID-19 from someone who has just a mild cough and does not feel ill.\n\nSome reports have indicated that people with no symptoms can transmit the virus. It is not yet known how often it happens. WHO is assessing ongoing research on the topic and will continue to share updated findings."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#nosymptoms",
+      "dialog_node": "node_9_1587722863083",
+      "previous_sibling": "node_4_1587722859118"
+    },
+    {
+      "type": "standard",
+      "title": "Lates News About COVID-19",
+      "conditions": "#News_Corona_Virus",
+      "dialog_node": "node_3_1587722847491",
+      "previous_sibling": "node_4_1587719600575"
+    },
+    {
+      "type": "standard",
+      "title": "Greetings",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#greeting",
+      "dialog_node": "node_9_1587719597664",
+      "previous_sibling": "node_6_1587742717591"
+    },
+    {
+      "type": "standard",
+      "title": "children at risk",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Experts are still learning about COVID-19. There are far fewer cases of the virus reported in children. Most of them caught the infection from someone they lived with or a family member. The virus seems to usually cause a milder infection in children than in adults or older people.\n\nCall your doctor if your child or someone in your family has a fever, cough, or other flu-like symptoms. Tell the doctor if they have been near someone with COVID-19 or lived in or traveled to an area where lots of people have the coronavirus.\n\nMake sure your children have all their vaccinations. Protect them against illnesses like measles and the flu. This helps keep them out of the doctor's office or hospital where they could be around other germs, including COVID-19. Plus, kids who have another infection may have a harder time getting better if they do get COVID-19.\n\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Symptomsinchildren",
+      "dialog_node": "node_9_1587747537474",
+      "previous_sibling": "node_7_1587747234184"
+    },
+    {
+      "type": "standard",
+      "title": "Spread",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "People can catch COVID-19 from others who have the virus. The disease spreads primarily from person to person through small droplets from the nose or mouth, which are expelled when a person with COVID-19 coughs, sneezes, or speaks. These droplets are relatively heavy, do not travel far and quickly sink to the ground. People can catch COVID-19 if they breathe in these droplets from a person infected with the virus. This is why it is important to stay at least 1 metre (3 feet) away from others. These droplets can land on objects and surfaces around the person such as tables, doorknobs and handrails. People can become infected by touching these objects or surfaces, then touching their eyes, nose or mouth. This is why it is important to wash your hands regularly with soap and water or clean with alcohol-based hand rub.\n\nCOVID-19 can also be spread as a result of medical procedures during which infected persons can create a fine respiratory sprays called aerosols. Aerosols containing the virus can hang in the air for longer periods and can be breathed in by those standing near-by, and transmit the virus. These aerosol generating events are not common causes of transmission.\n\nWHO is assessing ongoing research on the ways that COVID-19 is spread and will continue to share updated findings."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#HowDoesItSpread",
+      "dialog_node": "node_10_1587722855516",
+      "previous_sibling": "node_5_1587722853857"
+    },
+    {
+      "type": "standard",
+      "title": "What is Covid-19 ?",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A novel coronavirus is a new virus that is not identified previously. The virus causing coronavirus disease 2019 (COVID-19), is not the same as the coronaviruses that commonly circulate among humans and cause mild illness, like the common cold. Patients with COVID-19 are kept in Isolation Centers and are treated separately."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#WhatisCovid",
+      "dialog_node": "node_7_1587722852072",
+      "previous_sibling": "node_3_1587722847491"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello, I am the COVID Crisis Communication Bot ready to answer your questions about COVID-19. How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "node_8_1587738901114"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "COVID-19 Communication Chat Bot To Help In Crisis",
+  "language": "en",
+  "description": ""
+}
