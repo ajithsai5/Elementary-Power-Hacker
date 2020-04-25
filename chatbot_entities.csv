@@ -1,0 +1,19 @@
+about_of_interest,coronavirus
+about_of_interest,COVID-19
+about_of_interest,corona virus
+greeting,Good Afternoon,afternoon
+greeting,Hi,hai,Hello,hey,hiya,howdy,greetings,dear,thank,hoi,yeh,heya,hota,hi
+greeting,Good Morning,gm,morning,goodmorning
+greeting,Good Evening,evening
+landmark,times square,time sqaure,time square,times sqaure
+landmark,empire state building,empire state,emprire state
+landmark,grand central
+phone,US Phone pattern,/(\d{3})-(\d{3})-(\d{4})/
+reply,yes,definitely,go for it,let's do it,ok,please,sure,why not,yeah,yes,you bet,you betcha,yep
+reply,no,definitely not,don't think so,dont think so,i think not,nope,not at this time,not now
+school_type,grade school
+school_type,middle school
+school_type,preschool
+school_type,college
+school_type,high school
+zip_code,@sys-number,/(\b|\s)\d{5}(\b|\s)/

@@ -1,0 +1,378 @@
+can I get this from my dog?,AnimalContact
+can my dog catch corona virus?,AnimalContact
+can I get this from my cat?,AnimalContact
+Should I avoid contact with pets or other animals if I am sick with COVID-19?,AnimalContact
+Animal contact,AnimalContact
+can I get covid-19 from my pet?,AnimalContact
+do dogs and cats get sick from corona virus?,AnimalContact
+Can I go to a funeral?,AttendingFuneral
+Should I avoid funerals?,AttendingFuneral
+Can I go to a funeral of someone who died of  Corona Virus (COVID-19)?,AttendingFuneral
+Are funerals safe?,AttendingFuneral
+Am I at risk if I go to a funeral or visitation service for someone who died of COVID-19?,AttendingFuneral
+WHO response,CDC_WHO_Response
+What is the world health organization doing to help?,CDC_WHO_Response
+Does WHO work to protect public health?,CDC_WHO_Response
+What is the WHO doing to help?,CDC_WHO_Response
+How is CDC helping Americans prepare?,CDC_WHO_Response
+Does CDC work to protect public health?,CDC_WHO_Response
+CDC response,CDC_WHO_Response
+What is the center for disease control doing to help?,CDC_WHO_Response
+What is CDC doing about COVID-19?,CDC_WHO_Response
+Children and facemasks,ChildrenAndFaceMasks
+can my child play outside without a mask?,ChildrenAndFaceMasks
+does my daughter need to wear a facemask?,ChildrenAndFaceMasks
+are facemasks recommended for children,ChildrenAndFaceMasks
+Should children wear masks?,ChildrenAndFaceMasks
+Can my kid still go to group activities?,ChildrenSocializing
+do kids need to limit in person contact?,ChildrenSocializing
+While school is out can my child go to sports practice?,ChildrenSocializing
+Is social distancing important for kids too?,ChildrenSocializing
+"While school�s out, can my child hang out with their friends?",ChildrenSocializing
+Children socializing,ChildrenSocializing
+How does community spread happen?,CommunitySpread
+Community Spread,CommunitySpread
+Can community spread happen?,CommunitySpread
+Does  Corona Virus (COVID-19) spread to an entire community?,CommunitySpread
+Why is community spread of this virus important?,CommunitySpread
+What is community spread?,CommunitySpread
+What does that term community spread mean?,CommunitySpread
+is anyone near me sick,Covid_Case_Count
+covid number in my state?,Covid_Case_Count
+Does the US have a confirmed COVID case?,Covid_Case_Count
+has anyone died of coronavirus in my state?,Covid_Case_Count
+How many cases of COVID-19 are in the US?,Covid_Case_Count
+what is the count of coronavirus infected people?,Covid_Case_Count
+Where are cases?,Covid_Case_Count
+how many people are infected in the us?,Covid_Case_Count
+How many coronavirus cases are there in my area?,Covid_Case_Count
+How many cases of the virus are there in the world?,Covid_Case_Count
+Does MA have a confirmed COVID case?,Covid_Case_Count
+Are there any cases near me?,Covid_Case_Count
+how many people are sick in the US?,Covid_Case_Count
+What cleaning methods kill the coronavirus?,Covid_Cleaning_Disinfecting
+Whats the difference between cleaning and disinfecting?,Covid_Cleaning_Disinfecting
+How do I clean my home properly?,Covid_Cleaning_Disinfecting
+how do i get rid of germs at my home,Covid_Cleaning_Disinfecting
+Does alcohol kill the coronavirus?,Covid_Cleaning_Disinfecting
+Do I need lysol wipes?,Covid_Cleaning_Disinfecting
+Do I have to use bleach to kill coronavirus?,Covid_Cleaning_Disinfecting
+Are there disinfectants available that can inactivate (kill) COVID-19?,Covid_Cleaning_Disinfecting
+How often do I need to clean my home to prevent the spread of coronavirus?,Covid_Cleaning_Disinfecting
+"All the stores are out of disinfecting wipes, what do I do?",Covid_Cleaning_Disinfecting
+Should I spray myself or my kids with disinfectant?,Covid_Cleaning_Disinfecting
+How dangerous is this?,Covid_Description
+How is COVID-19 spread?,Covid_Description
+Is the coronavirus the same as a cold?,Covid_Description
+Is the coronavirus the same as MERS?,Covid_Description
+Is the coronavirus the same as SARS?,Covid_Description
+what is novel coronavirus?,Covid_Description
+What is COVID-19?,Covid_Description
+what is the coronavirus?,Covid_Description
+Where did the coronavirus come from?,Covid_Description
+Has the cause of COVID-19 been identified?,Covid_Description
+When will the NHL return?,Covid_Event_Shutdowns
+How do I know if my concert is cancelled?,Covid_Event_Shutdowns
+Should I feel safe going to the movies?,Covid_Event_Shutdowns
+What is the maximum number of people allowed to meet right now?,Covid_Event_Shutdowns
+What sports are being cancelled?,Covid_Event_Shutdowns
+Why is the government shutting down my event?,Covid_Event_Shutdowns
+Are events being shut down?,Covid_Event_Shutdowns
+Are groups of people allowed to meet?,Covid_Event_Shutdowns
+events and large gatherings,Covid_Event_Shutdowns
+Will I get a refund for a ticket I purchased?,Covid_Event_Shutdowns
+When will the NCAA championships be held?,Covid_Event_Shutdowns
+How can I protect my family from the spread of coronavirus?,Covid_Protecting_Against_Infection
+How often should I wash my hands?,Covid_Protecting_Against_Infection
+How do I prevent myself from getting sick?,Covid_Protecting_Against_Infection
+Is it even possible to avoid the virus?,Covid_Protecting_Against_Infection
+What is the risk of my child becoming sick with COVID-19?,Covid_Protecting_Against_Infection
+prevent the spread of the virus,Covid_Protecting_Against_Infection
+what should i do to contain the spread of the virus,Covid_Protecting_Against_Infection
+How do I avoid covid-19?,Covid_Protecting_Against_Infection
+how do I ensure my family is safe?,Covid_Protecting_Against_Infection
+How do I protect myself?,Covid_Protecting_Against_Infection
+What’s the best way to prevent coronavirus?,Covid_Protecting_Against_Infection
+Do I need to wear a face mask?,Covid_Protecting_Against_Infection
+How to Prevent the Spread of the Virus,Covid_Protecting_Against_Infection
+I have travled recently. What do I do?,Covid_Symptoms
+I think I might have the virus.,Covid_Symptoms
+I traveled to Italy recently. What do I do?,Covid_Symptoms
+should i get tested,Covid_Symptoms
+should I get tested if I have a cough?,Covid_Symptoms
+How do i know if I'm sick,Covid_Symptoms
+I think I'm infected,Covid_Symptoms
+Do I need to get tested?,Covid_Symptoms
+am i sick,Covid_Symptoms
+What are symptoms?,Covid_Symptoms
+Can I test myself at my house?,Covid_Testing_Locations
+Can I get tested at Walgreens?,Covid_Testing_Locations
+How do I get tested?,Covid_Testing_Locations
+how to test myself,Covid_Testing_Locations
+Can I get tested at my doctors?,Covid_Testing_Locations
+Where can I get tested?,Covid_Testing_Locations
+testing spots for coronavirus?,Covid_Testing_Locations
+testing locations?,Covid_Testing_Locations
+Do my test results come in the mail?,Covid_Testing_Results
+test outcomes?,Covid_Testing_Results
+When can I get my results?,Covid_Testing_Results
+Its been a week. Who can I call to get my test results?,Covid_Testing_Results
+Who will give me my COVID test results?,Covid_Testing_Results
+My doctor hasn't given me my test results back yet.,Covid_Testing_Results
+How can I get my test results?,Covid_Testing_Results
+I just travelled. What do I do?,Covid_Travel_Restrictions
+do i need to stay home,Covid_Travel_Restrictions
+Do I need a doctor's note to travel?,Covid_Travel_Restrictions
+Are there any travel restrictions in place yet?,Covid_Travel_Restrictions
+What if I urgently need to take a flight?,Covid_Travel_Restrictions
+Can I travel?,Covid_Travel_Restrictions
+Should I cancel my flight to Denver?,Covid_Travel_Restrictions
+Is it safe to fly to Seattle?,Covid_Travel_Restrictions
+Are you sure?,DataSource
+How do you know this?,DataSource
+Is this true?,DataSource
+Is this information accurate?,DataSource
+Data Disclaimer,DataSource
+Where did you learn this?,DataSource
+Where do you get your information?,DataSource
+what products are best at disinfecting?,DisinfectingSurfaces
+Do I need to clean with bleach?,DisinfectingSurfaces
+Disinfecting surfaces,DisinfectingSurfaces
+What cleaning products should I use to protect against COVID-19?,DisinfectingSurfaces
+How do I clean my home to remove virus molecules,DisinfectingSurfaces
+how should i disinfect my home?,DisinfectingSurfaces
+Where do i need to disinfect?,DisinfectingSurfaces
+see ya soon,goodbyes
+see ya later,goodbyes
+shut up,goodbyes
+thanks for your help,goodbyes
+bye,goodbyes
+au revoir,goodbyes
+adios,goodbyes
+see you,goodbyes
+see you later,goodbyes
+should be going,goodbyes
+should go,goodbyes
+signing off,goodbyes
+signing out,goodbyes
+so long,goodbyes
+soon,goodbyes
+take care,goodbyes
+take it easy,goodbyes
+talk to you soon,goodbyes
+talk to you later,goodbyes
+thanks watson,goodbyes
+thank you,goodbyes
+then bye,goodbyes
+toodles,goodbyes
+thanks,goodbyes
+ttyl,goodbyes
+ty,goodbyes
+no thank you,goodbyes
+logging off,goodbyes
+leave,goodbyes
+laters,goodbyes
+later,goodbyes
+im leaving,goodbyes
+have a good one,goodbyes
+gtg,goodbyes
+gotta run,goodbyes
+gotta go,goodbyes
+bye im going to play a game,goodbyes
+o thank u,goodbyes
+i am done with you,goodbyes
+thx,goodbyes
+be quiet robot,goodbyes
+done,goodbyes
+dont need your help at all,goodbyes
+ok bye,goodbyes
+good bye hohoho,goodbyes
+goodbye joto,goodbyes
+got to go bye nice time talking to you,goodbyes
+gtg go right now ok,goodbyes
+sorry got to go,goodbyes
+thank you for the info,goodbyes
+no problem,goodbyes
+youre welcome now bye,goodbyes
+i'm leaving,goodbyes
+g'day,goodbyes
+good night,goodbyes
+adieu,goodbyes
+bye bye,goodbyes
+my time is up,goodbyes
+bye now,goodbyes
+catch ya later,goodbyes
+ok thank you,goodbyes
+stop,goodbyes
+farewell,goodbyes
+gday,goodbyes
+good day,goodbyes
+good bye,goodbyes
+goodbye,goodbyes
+go,goodbyes
+cya,goodbyes
+ok thank you for your time,goodbyes
+ok thanks,goodbyes
+out of time,goodbyes
+over and out,goodbyes
+run,goodbyes
+see ya,goodbyes
+gm,greeting
+hie,greeting
+hei,greeting
+Goodmorning,greeting
+Goodevening,greeting
+Goodafternoon,greeting
+aloha,greeting
+bonjour,greeting
+buenos dias,greeting
+ciao,greeting
+hello watson,greeting
+hey there,greeting
+hiya,greeting
+hola,greeting
+feeling a bit low,greeting
+hey,greeting
+yo,greeting
+yello,greeting
+Olla,greeting
+namaste,greeting
+hi there,greeting
+howdy,greeting
+hii,greeting
+heya,greeting
+Good Evening,greeting
+Good Morning,greeting
+Good Afternoon,greeting
+Hello,greeting
+Hai,greeting
+Hi,greeting
+Should I use soap and water or a hand sanitizer to protect against COVID-19?,HandwashingTips
+how do i wash my hands correctly?,HandwashingTips
+will frequent handwashing help?,HandwashingTips
+is hand sanitizer effective against covid-19?,HandwashingTips
+handwashing products,HandwashingTips
+will washing my hands help protect me?,HandwashingTips
+should i keep washing my hands,HandwashingTips
+Handwashing tips,HandwashingTips
+how do I ship a specimen to the CDC lab?,HealthDeptRecommendedActions
+What should healthcare professionals and health departments do?,HealthDeptRecommendedActions
+does CDC provide protocols for labs to test covid-19?,HealthDeptRecommendedActions
+Health dept recommended actions,HealthDeptRecommendedActions
+can CDC help my local health dept get protective gear?,HealthDeptRecommendedActions
+can CDC help my local board of health,HealthDeptRecommendedActions
+people who are at high risk,highrisk
+high risk,highrisk
+who will get effected soon,highrisk
+risk,highrisk
+does the corona virus spread easily?,HowDoesItSpread
+How does the virus spread?,HowDoesItSpread
+how did the virus spread from China?,HowDoesItSpread
+How does it spread,HowDoesItSpread
+is corona virus contagious?,HowDoesItSpread
+What are the stats on COVID-19?,How_many_cases
+how many cases in the world,How_many_cases
+How many cases of covid 19 have been detected?,How_many_cases
+How many cases of Covid 19 has been detected?,How_many_cases
+how many cases in india?,How_many_cases
+Total Cases so Far,How_many_cases
+How many cases so far?,How_many_cases
+How many cases of corona virus has been detected?,How_many_cases
+What is the stats on Corona Virus?,How_many_cases
+How to wear a mask,howtowearmask
+how to wear mask,howtowearmask
+if you test negative can you still get COVID-19 later?,NegativeTestResults
+Negative test results,NegativeTestResults
+Can you have corona virus and still test negative?,NegativeTestResults
+Does a negative test mean a person does not have COVID-19?,NegativeTestResults
+Can a person test negative and later test positive for COVID-19?,NegativeTestResults
+What is in the NEWS?,News_Corona_Virus
+Whats happening?,News_Corona_Virus
+whats happening,News_Corona_Virus
+NEWS,News_Corona_Virus
+no symptoms,nosymptoms
+Can COVID-19 be caught from a person who has no symptoms?,nosymptoms
+person with no symptoms,nosymptoms
+what precautions,precautions
+precautions for corona virus,precautions
+precautions for corona,precautions
+precautions of corona,precautions
+precautions for covid,precautions
+precautions,precautions
+What are the precautions to be taken,precautions
+what are the precautions,precautions
+sample test,sample_test
+how can i take sample test for COVID-19,sample_test
+how can i do sample covid-19 test,sample_test
+how do I keep my child engaged in schoolwork?,Schoolfromhome
+"While school�s out, how can I help my child continue learning?",Schoolfromhome
+Tips for my child's schedule when school is canceled.,Schoolfromhome
+School from home,Schoolfromhome
+I need tips for at home learning,Schoolfromhome
+Can someone who has been quarantined for COVID-19 spread the illness to others?,spreadinquarantine
+spread in quarantine,spreadinquarantine
+does putting infected people into quarantine help?,spreadinquarantine
+what is a quarantine?,spreadinquarantine
+does quarantining people stop the spread of corona virus?,spreadinquarantine
+what is the incubation period of this corona virus?,spreadinquarantine
+does covid-19 cause fever?,Symptoms
+does covid-19 cause coughing?,Symptoms
+is fever a sign of this infection?,Symptoms
+Symptoms,Symptoms
+what symptoms should I watch for?,Symptoms
+What are the symptoms and complications that COVID-19 can cause?,Symptoms
+what are the symptoms in children?,Symptomsinchildren
+do kids get different symptoms?,Symptomsinchildren
+do children react differently to the virus than adults do?,Symptomsinchildren
+Are the symptoms of COVID-19 different in children than in adults?,Symptomsinchildren
+Symptoms in children,Symptomsinchildren
+tell me about corona virus,tell_me_about
+novel coronavirus,tell_me_about
+tell me about novel corona virus,tell_me_about
+tell me about COVID-19,tell_me_about
+should I head to the doctor if I show symptoms?,Testing
+can my doctor test me if I start feeling sick?,Testing
+who should get tested?,Testing
+Should I be tested for COVID-19?,Testing
+Testing,Testing
+what is the vaccine,vaccine
+vaccine,vaccine
+is there any vaccine,vaccine
+Will warm weather stop the outbreak of COVID-19?,warmerweather
+will the virus go away during warmer months?,warmerweather
+warmer weather,warmerweather
+does it get less contagious in the summer?,warmerweather
+i heard the spread will slow down in warmer months,warmerweather
+Should I use a face mask when in public?,Wearingfacemasks
+Wearing face masks,Wearingfacemasks
+Should my child wear a face mask?,Wearingfacemasks
+Someone in my household is sick should we wear masks at home?,Wearingfacemasks
+What do face masks do?,Wearingfacemasks
+Do I need to wear a face mask?,Wearingfacemasks
+Does CDC recommend the use of facemask to prevent COVID-19?,Wearingfacemasks
+Should I wear a face mask?,Wearingfacemasks
+Do face masks do anything?,Wearingfacemasks
+is it necessary to wear a mask,Wearingfacemasks
+Where did  Corona Virus (COVID-19) appear?,WhatisCovid
+What is a novel coronavirus?,WhatisCovid
+covid 19,WhatisCovid
+How did the  Corona Virus (COVID-19) spread from China?,WhatisCovid
+When did  Corona Virus (COVID-19) appear?,WhatisCovid
+What is SARS-CoV-2?,WhatisCovid
+What is COVID 19?,WhatisCovid
+What is Covid,WhatisCovid
+Carona Virus,WhatisCovid
+what is carona virus?,WhatisCovid
+When did  Corona Virus (COVID-19) start?,WhatisCovid
+Where was  Corona Virus (COVID-19) first spotted.,WhatisCovid
+Why did  Corona Virus (COVID-19) spread?,WhatisCovid
+What is the source of the virus?,Wherediditstart
+which location did corona virus start from?,Wherediditstart
+Where did corona virus originate from?,Wherediditstart
+Where did it start,Wherediditstart
+why is covid-19 the name for this disease?,Whythename
+"Why is the disease being called coronavirus disease 2019, COVID-19?",Whythename
+Why the name,Whythename
+why was covid-19 used to name this disease?,Whythename
+is covid an abbreviation?,Whythename
+is corona virus the same as covid-19?,Whythename
